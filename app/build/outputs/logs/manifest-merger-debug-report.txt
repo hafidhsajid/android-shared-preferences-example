@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:15:1-32:12
+INJECTED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:15:1-32:12
+INJECTED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:15:1-32:12
+INJECTED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:15:1-32:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/2fd1badfe235a86c9c4f24dc039376c6/appcompat-v7-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/ee0496f3b6b5702ab74add5a38d20b1d/constraint-layout-1.1.2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/0c19fdd807c306dfd21cf072d31f49fc/support-fragment-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/bd5453cae97d20f98ac073be86f4de3f/animated-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/2b701ae5ddd88240760608cc768e9784/support-core-ui-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/31b24ea2eadae461fd63b1ffead369c6/support-core-utils-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/91a417b558c859a0eac369818706bb76/support-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/b5a1b086f5f1cb641bc0eaedaf84b95f/support-compat-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/abe20aa3392e86f8873da1ec2a4b1213/livedata-core-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/b7997940a8f4a03292b220b77b63affe/viewmodel-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/6a75fc164d20e893ff704b8f5fc71219/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/3ebca0af94afd47abe917c2fb4525dc0/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:15:1-32:12
+INJECTED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:15:1-32:12
+INJECTED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:15:1-32:12
+	package
+		ADDED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:16:11-57
+		INJECTED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml
+		INJECTED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml
+		ADDED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:15:1-32:12
+		INJECTED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml
+		ADDED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:15:1-32:12
+		INJECTED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:15:11-69
+application
+ADDED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:18:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/ee0496f3b6b5702ab74add5a38d20b1d/constraint-layout-1.1.2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/ee0496f3b6b5702ab74add5a38d20b1d/constraint-layout-1.1.2/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:23:9-40
+activity#com.example.android.hellosharedprefs.MainActivity
+ADDED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:24:9-29:20
+	android:name
+		ADDED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:24:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml
+INJECTED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/2fd1badfe235a86c9c4f24dc039376c6/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/2fd1badfe235a86c9c4f24dc039376c6/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/ee0496f3b6b5702ab74add5a38d20b1d/constraint-layout-1.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/ee0496f3b6b5702ab74add5a38d20b1d/constraint-layout-1.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/0c19fdd807c306dfd21cf072d31f49fc/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/0c19fdd807c306dfd21cf072d31f49fc/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/bd5453cae97d20f98ac073be86f4de3f/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/bd5453cae97d20f98ac073be86f4de3f/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/2b701ae5ddd88240760608cc768e9784/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/2b701ae5ddd88240760608cc768e9784/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/31b24ea2eadae461fd63b1ffead369c6/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/31b24ea2eadae461fd63b1ffead369c6/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/91a417b558c859a0eac369818706bb76/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/91a417b558c859a0eac369818706bb76/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/b5a1b086f5f1cb641bc0eaedaf84b95f/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/b5a1b086f5f1cb641bc0eaedaf84b95f/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/abe20aa3392e86f8873da1ec2a4b1213/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/abe20aa3392e86f8873da1ec2a4b1213/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/b7997940a8f4a03292b220b77b63affe/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/b7997940a8f4a03292b220b77b63affe/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/6a75fc164d20e893ff704b8f5fc71219/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/6a75fc164d20e893ff704b8f5fc71219/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/3ebca0af94afd47abe917c2fb4525dc0/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/wonderfull/.gradle/caches/transforms-2/files-2.1/3ebca0af94afd47abe917c2fb4525dc0/runtime-1.1.0/AndroidManifest.xml:20:5-44
+INJECTED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml
+INJECTED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml
+		ADDED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml
+		INJECTED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml
+		ADDED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml
+		INJECTED from /run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml
