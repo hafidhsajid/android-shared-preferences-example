@@ -36,23 +36,22 @@
 30-->/run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:21:9-41
 31        android:supportsRtl="true"
 31-->/run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:22:9-35
-32        android:testOnly="true"
-33        android:theme="@style/AppTheme" >
-33-->/run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:23:9-40
-34        <activity android:name="com.example.android.hellosharedprefs.MainActivity" >
-34-->/run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:24:9-29:20
-34-->/run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:24:19-47
-35            <intent-filter>
-35-->/run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:25:13-28:29
-36                <action android:name="android.intent.action.MAIN" />
-36-->/run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:26:17-69
-36-->/run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:26:25-66
-37
-38                <category android:name="android.intent.category.LAUNCHER" />
-38-->/run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:27:17-77
-38-->/run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:27:27-74
-39            </intent-filter>
-40        </activity>
-41    </application>
-42
-43</manifest>
+32        android:theme="@style/AppTheme" >
+32-->/run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:23:9-40
+33        <activity android:name="com.example.android.hellosharedprefs.MainActivity" >
+33-->/run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:24:9-29:20
+33-->/run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:24:19-47
+34            <intent-filter>
+34-->/run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:25:13-28:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->/run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:26:17-69
+35-->/run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:26:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->/run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:27:17-77
+37-->/run/media/wonderfull/DC5093EA5093C9A2/Kuliah/Sem5/Mobile/Aplas/Kotlin/android-shared-preferences-example/app/src/main/AndroidManifest.xml:27:27-74
+38            </intent-filter>
+39        </activity>
+40    </application>
+41
+42</manifest>
